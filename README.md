@@ -1,4 +1,6 @@
-# CSCA 5632 Unsupervised Algorithms in ML - Final Exam - True or Fake News Classification
+# CSCA 5632 Unsupervised Algorithms in ML - Final Exam
+
+# True or Fake News Classification
 
 ### Overview
 
