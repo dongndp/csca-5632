@@ -1,4 +1,4 @@
-# CSCA 5632 Unsupervised Algorithms in ML - Final Project - True or Fake News Classification
+# CSCA 5632 Unsupervised Algorithms in ML - Final Exam - True or Fake News Classification
 
 ### Overview
 
@@ -21,7 +21,6 @@ Dataset columns:
 - Date: publish date of news article
 
 Summary of Tasks:
-- Importing libraries
 - Loading dataset
 - Exploratory Data Analysis: 
     - Explore the dataset, perform data cleaning, data analysis, and text processing.
